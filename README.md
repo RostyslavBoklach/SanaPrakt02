@@ -17,3 +17,4 @@ _Контент:_
 - [ ] GitLab
 - [ ] Bitbucket
 
+__Виконав: Rostyslav Boklach__
