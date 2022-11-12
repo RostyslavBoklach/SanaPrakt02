@@ -13,6 +13,7 @@ _Контент:_
 
 Репозиторій на:
 
-- [X] GitLub
+- [X] GitHub
 - [ ] GitLab
 - [ ] Bitbucket
+
